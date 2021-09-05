@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABogd
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in full stack development and :bicyclist: :rowboat: :dancer: :world_map:
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on projects that bring greater good :palms_up_together:
 - 📫 How to reach me arekb24@gmail.com
